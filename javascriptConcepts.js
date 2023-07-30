@@ -133,19 +133,23 @@
 
 
 // Variables
+//===========
 // let
 // var
 // const
 
 // Data Struchers
+//=================
 // Arrays
 // Objects
 // array of objects
 // destruchering arrays
 // destruchering objects
 // Higher-Order Array Methods: Methods like map, filter, and reduce that operate on arrays and take functions as arguments.
+// json
 
 // Loops
+//========
 // for 
 // while
 // do while
@@ -155,6 +159,7 @@
 // map
 
 // Operators
+//===========
 // arithemetic operators
 // assignment operators
 // comparision operators
@@ -165,11 +170,13 @@
 // spread operator
 
 // Control Statements
+//====================
 // if 
 // if else
 // elseif
 
 // Functions
+//===========
 // function defination
 // function arguments
 // return statement
@@ -184,13 +191,71 @@
 // Async Functions
 // Recursive Functions
 
-// Event handling
-// Onclick     
-// Onchange
-// Onmouseover
-// Onmouseover
+// javscript events, event loop and asynchronous events
+//========================================================
 
-// Modules
+// Mouse Events:
+// click
+// dblclick
+// mouseenter
+// mouseleave
+// mousemove
+// mousedown
+// mouseup
+
+// Keyboard Events:
+// keydown
+// keyup
+// keypress
+
+// Form Events:
+// submit
+// change
+// input
+// focus
+// blur
+
+// Touch Events:
+// touchstart
+// touchmove
+// touchend
+// touchcancel
+
+// Window Events:
+// load
+// resize
+// scroll
+// unload
+
+// Document Events:
+// DOMContentLoaded
+// readystatechange
+
+// Media Events:
+// play
+// pause
+// ended
+
+// Drag and Drop Events:
+// dragstart
+// dragenter
+// dragover
+// dragleave
+// drop
+// dragend
+
+// Animation Events:
+// animationstart
+// animationend
+// animationiteration
+
+// Transition Events:
+// transitionstart
+// transitionend
+// transitioncancel
+
+// es6 Modules
+//============
 // export
 // import
 // as
@@ -198,20 +263,43 @@
 // default
 
 // Asynchronous Programming
+//=========================
 // Callbacks
 // Promises
 // Async/Await
 
 // AJAX
+//======
 // xmlhttprequest
 
+// Web Apis
+//==========
+// DOM APIs (Document Object Model) (Examples: document.getElementById(), document.querySelector(), element.innerHTML, element.setAttribute())
+// Web Storage APIs (LocalStorage,SessionStorage) (Example: localStorage.setItem(), localStorage.getItem(), sessionStorage.setItem())
+// WebSockets API
+// Geolocation API
+// WebRTC API
 // Fetch Api    
 
 // Error handling
+//================
 // try
 // catch
 // finally
 // throw    
+
+// Closures and Lexical Scope
+//============================
+
+// Webpack and Module Bundlers (Parcel, Rollup, and Browserify)
+//==============================================================
+
+// Regular Expressions and regex
+//===============================
+
+// javascript Data and time methods
+//===================================
+
 
 //============================================================================================================================
 
@@ -234,36 +322,6 @@
 // Learn about how objects inherit properties and methods from their prototypes.
 
 
-// 3) Closures and Lexical Scope:
-//-------------------------------
-
-// Explore the concept of closures, which allows functions to remember the scope in which they were created.
-
-
-// 4) Web APIs:
-//-------------
-
-// Familiarize yourself with various browser APIs, such as the DOM API, localStorage, sessionStorage, and others, to interact with the browser environment.
-
-
-// 5) Events and Event Loop:
-//--------------------------
-
-// Understand how the event loop works and how JavaScript handles asynchronous events.
-
-
-// 6) Regular Expressions:
-//------------------------
-
-// Learn about regex patterns for pattern matching and manipulating strings.
-
-
-// 7) Webpack and Module Bundlers:
-//--------------------------------
-
-// Get familiar with tools like Webpack for bundling your JavaScript code and managing dependencies.
-
-
 // 8) ESLint and Code Quality:
 //----------------------------
 
@@ -280,30 +338,6 @@
 //------------------------
 
 // Understand the different ways "this" behaves in different contexts and how to handle it properly.
-
-
-// 11) ECMAScript Modules:
-//------------------------
-
-// Learn about the ES6 module system, which is now the standard way of handling modules in JavaScript.
-
-
-// 12) Date and Time:
-//-------------------
-
-// Explore JavaScript's Date object and related functionalities for working with dates and times.
-
-
-// Local Storage and Session Storage:
-//-----------------------------------
-
-// Understand how to store data locally in the browser using these storage mechanisms.
-
-
-// WebSockets:
-//------------
-
-// Discover how to create real-time applications with WebSockets for bidirectional communication between clients and servers.
 
 
 // Functional Programming Libraries:
