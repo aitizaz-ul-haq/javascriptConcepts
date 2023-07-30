@@ -143,6 +143,7 @@
 // array of objects
 // destruchering arrays
 // destruchering objects
+// Higher-Order Array Methods: Methods like map, filter, and reduce that operate on arrays and take functions as arguments.
 
 // Loops
 // for 
@@ -177,6 +178,11 @@
 // IIFE function
 // generator function
 // higher order functions
+// Regular Functions
+// Anonymous Functions
+// Callback Functions
+// Async Functions
+// Recursive Functions
 
 // Event handling
 // Onclick     
@@ -304,6 +310,18 @@
 //----------------------------------
  
 // Get acquainted with popular functional programming libraries like Lodash or Ramda.
+
+// Regarding functional programming paradigm, it's essential to have a basic understanding of functional concepts while learning JavaScript functions. Functional programming is a programming paradigm where functions are treated as first-class citizens, and the focus is on writing pure functions that avoid side effects. Some key concepts in functional programming include:
+
+// Immutability: Avoiding changing data directly and instead creating new data structures with desired changes.
+
+// Pure Functions: Functions that always produce the same output for the same input and have no side effects.
+
+// Higher-Order Functions: Functions that can take other functions as arguments or return them as results.
+
+// Recursion: Using recursive functions instead of loops for iteration.
+
+// Higher-Order Array Methods: Methods like map, filter, and reduce that operate on arrays and take functions as arguments.
 
 
 //============================================================================================================================= 
