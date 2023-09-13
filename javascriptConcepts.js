@@ -141,6 +141,37 @@
 // Data Struchers
 //=================
 // Arrays
+   // Array methods
+   
+    // Array.length  (find array length)
+
+   // Adding elements
+    // Array.push (Add element at the end of array)
+    // Array.unshift (Add element in the begining of the array)
+
+   // Removing elements
+    // Array.pop (remove element from the end of array)
+    // Array.shift (remove element from the begining of array)
+    // Array.splice (1, 1) remove one element from index 1
+
+   // searching and sorting Array elements
+    // Array.indexof (find an elemnts index in array)
+    // Array.sort (sort elements in array alphabatically)
+    // Array.find (callback(element[, index[, array]])[, thisArg])
+      // const result = Array.find(person => person.age > 25);
+    // const numbers = [2, 8, 3, 10, 5, 7];
+    // const filteredNumbers = numbers.filter(number => number > 5);
+
+   // copying an array
+    //  let copy = Array.slice(); // Creates a shallow copy
+
+
+// looping through an array
+
+    // for loop (for (let i = 0; i < fruits.length; i++))
+    // for of loop (for (let fruit of fruits))
+    // for each loop (fruits.forEach(function(fruit))
+
 // Objects
 // array of objects
 // destruchering arrays
